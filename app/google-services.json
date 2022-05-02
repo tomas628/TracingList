@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049326218653",
+    "firebase_url": "https://tracingtest-ed25c-default-rtdb.firebaseio.com",
+    "project_id": "tracingtest-ed25c",
+    "storage_bucket": "tracingtest-ed25c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049326218653:android:d868ebb49c6db323695374",
+        "android_client_info": {
+          "package_name": "com.example.tracinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049326218653-u1oc2t1fte3vg9bc48c85hbq0901bf4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQwxAM444p-ODhmRDZP5tfLx-mVmyFBlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049326218653-u1oc2t1fte3vg9bc48c85hbq0901bf4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
